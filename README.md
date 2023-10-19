@@ -1,5 +1,6 @@
 ### Hi there, I'm Thanush 👋
-Welcome To My GitHub Account! This is where I showcase my projects.
+Welcome To My GitHub Account! This is where I showcase my projects. If I'm not coding you'll see me on the field playing ⚽. You can reach me by email: 
+tarulana@uoguelph.ca
 
 ## Skills and Languages 🎓
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
